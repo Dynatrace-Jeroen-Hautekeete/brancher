@@ -1,0 +1,1 @@
+This is new repository, first commit - directly onto master
