@@ -7,3 +7,5 @@ Created newfeat branch to edit this file
 
 
 This is second commit on feature branch
+
+Procedure documentation : developer 2 adds some code
